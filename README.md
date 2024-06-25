@@ -1,6 +1,6 @@
 # gRPC Java Project with Protobuf and Gradle
 
-This project demonstrates a simple gRPC-based Java application using Protocol Buffers (Protobuf) for defining services and messages, and Gradle as the build tool.
+This project is a gRPC-based Java application for an online book store. It provides CRUD (Create, Read, Update, Delete) operations for managing a collection of books.
 
 ## Project Structure
 
